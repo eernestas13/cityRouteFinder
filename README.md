@@ -1,5 +1,5 @@
 # cityRouteFinder
-Year 2 Semester 2 Programming Project (Group Project : Max 2 People)
+(Group Project : Max 2 People)
 
 This project asked us to use a satellite map of the city of Waterford.
 The project was split in half.
